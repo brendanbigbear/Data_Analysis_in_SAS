@@ -1,2 +1,2 @@
 # Data_Analysis_in_SAS
-Project practicing analysis data using R
+Project practicing analysis data using SAS
