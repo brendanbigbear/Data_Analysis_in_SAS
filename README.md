@@ -1,2 +1,2 @@
-# Data-Analysis_P1-A
+# Data_Analysis_in_SAS
 Project practicing analysis data using R
